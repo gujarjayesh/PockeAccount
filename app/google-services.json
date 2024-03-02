@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "685136157096",
+    "project_id": "pocket-account-ff852",
+    "storage_bucket": "pocket-account-ff852.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685136157096:android:1630ee5280223cdbc6a59d",
+        "android_client_info": {
+          "package_name": "com.js.pocketaccount"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685136157096-01s6819uuiub29b6b6tj6k23pk7qsabv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYBOgod7LcKrv4xw-TtsgnMdIaA25D48E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685136157096-01s6819uuiub29b6b6tj6k23pk7qsabv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
